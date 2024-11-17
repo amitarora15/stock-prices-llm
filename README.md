@@ -11,18 +11,18 @@ This is a repo for GenAI M5 AST2
 
 3. Create and Activate a virtual environment:
    ```
-   python -m venv venv
+   python3 -m venv venv
    source venv/bin/activate
    ```
 
 4. Install requirement:
    ```
-   pip install -r requirements/requirements.txt
+   pip3 install -r requirements/requirements.txt
    ```
 
 5. Read data from pickle files and create a database:
    ```
-   python main.py
+   python3 main.py
    ```
 
 6. Start application:
